@@ -1,0 +1,43 @@
+.right {
+	background: red;
+	height: 800px;
+}
+.left {
+	background: blue;
+}
+.logo {
+	border: 2px solid white;
+	color: white;
+	text-align: center;
+	margin: 10px;
+	padding-bottom: 40px;
+	padding-top: 40px;
+	padding-left: 25px;
+	padding-right: 25px;
+	display: inline;
+	font-size: 25px;
+}
+#black {
+	background: black;
+}
+#red {
+	background: red;
+}
+#green {
+	background: green;
+}
+#gray {
+	background: gray;
+}
+#lightgray {
+	background: lightgray;
+}
+#lightgreen {
+	background: lightgreen;
+}
+#brown {
+	background: brown;
+}
+#darkred {
+	background: darkred;
+}
